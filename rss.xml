@@ -49,11 +49,12 @@ Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
 02:44:31 - Predicting future content & voicelines
 02:56:50 - Wrapping it up</description>
 		<pubDate>Mon, 17 Jan 2022 20:00:00 +0000</pubDate>
-		<enclosure url="https://github.com/chibiin/podcast/blob/main/Audio/Ep.%203%20-%20Audio.mp3" type="audio/mpeg" length="122194763"/>
+		<enclosure url="https://github.com/chibiin/podcast/blob/main/Audio/Ep.%203%20-%20Audio.mp3" type="audio/mpeg" length="172879623"/>
 		<itunes:image href="https://github.com/chibiin/podcast/blob/main/Thumbnails/wdp3spotify.png"/>
 		<itunes:duration>03:00:05</itunes:duration>
 		<itunes:author>Necrit SkinSpotlights Chibiin and NickyBoi</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
+		<guid isPermaLink="false">61282550</guid>
     </item>	
 	
 	
@@ -86,11 +87,12 @@ Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
 1:32:05 - Rapidfire: Necrits vacation, Minecraft subathon and Hytale
 1:37:16 - Wrapping it up</description>
 		<pubDate>Thu, 30 Dec 2021 20:00:00 +0000</pubDate>
-		<enclosure url="https://github.com/chibiin/podcast/blob/main/Audio/Ep.%202%20-%20Audio.mp3" type="audio/mpeg" length="122194763"/>
+		<enclosure url="https://github.com/chibiin/podcast/blob/main/Audio/Ep.%202%20-%20Audio.mp3" type="audio/mpeg" length="94169128"/>
 		<itunes:image href="https://github.com/chibiin/podcast/blob/main/Thumbnails/wdp2spotify.png"/>
 		<itunes:duration>01:38:05</itunes:duration>
 		<itunes:author>Necrit SkinSpotlights and Chibiin</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
+		<guid isPermaLink="false">61282446</guid>
     </item>	
 	
     <item>
@@ -125,6 +127,7 @@ Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
 		<itunes:duration>02:07:32</itunes:duration>
 		<itunes:author>Necrit SkinSpotlights and Chibiin</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
+		<guid isPermaLink="false">61282304</guid>
     </item>	
 	
 	

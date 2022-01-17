@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Wood Division Podcast</title>
+	<link>https://www.youtube.com/chibiin</link>
+	<description>Podcast by Necrit SkinSpotlights and Chibiin</description>
+	<itunes:subtitle>Podcast by Necrit SkinSpotlights and Chibiin</itunes:subtitle>
+    <itunes:owner>
+        <itunes:name>Wood Division Podcast</itunes:name>
+        <itunes:email>lol.chibiin@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Necrit SkinSpotlights and Chibiin</itunes:author>
+    <description>A pet-owner's guide to the popular striped equine.</description>
+    <itunes:image href="https://github.com/chibiin/podcast/blob/main/Thumbnails/rss.png"/>
+        <image>
+          <url>https://github.com/chibiin/podcast/blob/main/Thumbnails/rss.png</url>
+          <title>Wood Division Podcast</title>
+          <link>https://www.youtube.com/chibiin</link>
+        </image>
+    <language>en</language>
+	
+	
+    <item>
+		<title>Ep. 3: S12 Cinematic, TFT Scam, Player Focussed & Lots Of COPIUM w/ NickyBoi</title>
+		<description>Also available on:
+Youtube: https://youtu.be/31oiJ7vhsa0
+Patreon: https://www.patreon.com/wooddivisionpodcast
+Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
+
+0:00 - Intro
+2:36 - S12 Cinematic
+19:20 - FULL ON VOID EVENT COPIUM
+22:05 - "the next 5 years at Riot Games" article
+28:14 - Skins
+31:31 - TFT Scam, Necrit is malding
+43:00 - "I like money", NickyBoi malding and Ahri ASU
+01:01:15 - Adding a toggle & feedback 
+01:16:20 - NickyBoi and the LPP
+01:24:40 - PvP anxiety, PvE is cool/better
+01:36:00 - Creativity, content around and outside of League
+02:01:12 - Rapidfire: April Fools Bamboozling
+02:03:58 - Rapidfire: WildRift's music Content ID'ed?
+02:10:00 - Rapidfire: What happens if Ezreal kisses VGU Shyvana's leg
+02:20:31 - Rapidfire: VFX Update
+02:24:40 - Champion age based on lore
+02:28:44 - Robot Battle Bunny malding & Floaty Kai'Sa shoulders
+02:36:12 - TFT Scam p2, Necrit is still malding
+02:44:31 - Predicting future content & voicelines
+02:56:50 - Wrapping it up</description>
+		<pubDate>Mon, 17 Jan 2022 20:00:00 +0000</pubDate>
+		<enclosure url="https://github.com/chibiin/podcast/blob/main/Audio/Ep.%203%20-%20Audio.mp3" type="audio/mpeg" length="122194763"/>
+		<itunes:image href="https://github.com/chibiin/podcast/blob/main/Thumbnails/wdp3spotify.png"/>
+		<itunes:duration>03:00:05</itunes:duration>
+		<itunes:author>Necrit SkinSpotlights Chibiin and NickyBoi</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+    </item>	
+	
+	
+    <item>
+		<title>Ep. 2: SoL Recap, Possible Void Event and Leaks</title>
+		<description>Also available on:
+Youtube: https://youtu.be/c0Ri-adYm-I
+Patreon: https://www.patreon.com/wooddivisionpodcast
+Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
+
+0:00 - Intro
+0:54 - Kshaway & the "Wood Division" name
+3:18 - SoL Recap
+17:35 - LoL should take notes from Fortnite and HotS
+24:23 - Final words about SoL
+26:07 - Screwing up & Champion Design
+29:09 - Arcane S2 in 2023
+35:51 - Possible Void Event
+47:07 - Leaks
+54:04 - Chibiin has a mental breakdown
+55:21 - Leaks p2
+1:02:04 - ⚠ MESSAGE FOR RIOT ⚠
+1:04:20 - Leaks p3
+1:12:25 - Little Legends Collection
+1:16:33 - Leaks p4
+1:23:40 - Classic Models and Skins
+1:26:15 - Rapidfire: EDG Skins & the Aphelios nightmare
+1:28:56 - Rapidfire: Necrits future big project
+1:29:58 - Rapidfire: Necrits workflow
+1:32:05 - Rapidfire: Necrits vacation, Minecraft subathon and Hytale
+1:37:16 - Wrapping it up</description>
+		<pubDate>Thu, 30 Dec 2021 20:00:00 +0000</pubDate>
+		<enclosure url="https://github.com/chibiin/podcast/blob/main/Audio/Ep.%202%20-%20Audio.mp3" type="audio/mpeg" length="122194763"/>
+		<itunes:image href="https://github.com/chibiin/podcast/blob/main/Thumbnails/wdp2spotify.png"/>
+		<itunes:duration>01:38:05</itunes:duration>
+		<itunes:author>Necrit SkinSpotlights and Chibiin</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+    </item>	
+	
+    <item>
+		<title>Ep. 1: Arcane, The Ruined King, and Evolving Content</title>
+		<description>
+		Also available on:
+Youtube: https://youtu.be/fiVQKbr6hOE
+Patreon: https://www.patreon.com/wooddivisionpodcast
+Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
+
+0:00 - Intro
+3:00 - Why this podcast even exists
+4:37 - The Arcane Effect
+5:37 - UCN Event
+27:58 - Arcane
+34:46 - Firelight Ekko, Yorick and summoner champion
+41:34 - Winter Summoner's Rift, TFT
+51:37 - TFT Metaverse
+56:39 - Necrit's content evolving
+1:03:58 - Ruined King
+1:39:16 - from Arcane to League Champions/Skins
+1:48:10 - Project L
+1:55:08 - Song of Nunu
+1:56:17 - Hextech Mayhem
+1:57:20 - Convergence
+1:58:23 - Elderwood Skins (Gnar, Rek'Sai)
+2:00:49 - Kai&quot;Sa statue
+2:05:55 - Wrapping it up</description>
+		<pubDate>Wed, 13 Dec 2021 20:00:00 +0000</pubDate>
+		<enclosure url="https://github.com/chibiin/podcast/blob/main/Audio/Ep.%201%20-%20Audio.mp3" type="audio/mpeg" length="122194763"/>
+		<itunes:image href="https://github.com/chibiin/podcast/blob/main/Thumbnails/wdp1spotify.png"/>
+		<itunes:duration>02:07:32</itunes:duration>
+		<itunes:author>Necrit SkinSpotlights and Chibiin</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+    </item>	
+	
+	
+  </channel>
+</rss>

@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wood Division Podcast</title>
 	<link>https://www.youtube.com/chibiin</link>
 	<description>Podcast by Necrit SkinSpotlights and Chibiin</description>
+    <pubDate>Mon, 17 Jan 2022 14:25:19 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Jan 2022 14:25:19 +0000</lastBuildDate>
+    <ttl>60</ttl>
 	<itunes:subtitle>Podcast by Necrit SkinSpotlights and Chibiin</itunes:subtitle>
     <itunes:owner>
         <itunes:name>Wood Division Podcast</itunes:name>
         <itunes:email>lol.chibiin@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:author>Necrit SkinSpotlights and Chibiin</itunes:author>
-    <description>A pet-owner's guide to the popular striped equine.</description>
-    <itunes:image href="https://github.com/chibiin/podcast/blob/main/Thumbnails/rss.png"/>
+	<itunes:explicit>no</itunes:explicit>
+    <description>Podcast by Necrit SkinSpotlights and Chibiin</description>
+    <itunes:image href="https://raw.githubusercontent.com/chibiin/podcast/main/Thumbnails/rss.png"/>
         <image>
           <url>https://github.com/chibiin/podcast/blob/main/Thumbnails/rss.png</url>
           <title>Wood Division Podcast</title>
@@ -49,8 +52,8 @@ Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
 02:44:31 - Predicting future content & voicelines
 02:56:50 - Wrapping it up</description>
 		<pubDate>Mon, 17 Jan 2022 20:00:00 +0000</pubDate>
-		<enclosure url="https://github.com/chibiin/podcast/blob/main/Audio/Ep.%203%20-%20Audio.mp3" type="audio/mpeg" length="172879623"/>
-		<itunes:image href="https://github.com/chibiin/podcast/blob/main/Thumbnails/wdp3spotify.png"/>
+		<enclosure url="https://media.githubusercontent.com/media/chibiin/podcast/main/Audio/Ep.%203%20-%20Audio.mp3" type="audio/mpeg" length="172879623"/>
+		<itunes:image href="https://raw.githubusercontent.com/chibiin/podcast/main/Thumbnails/wdp1spotify.png"/>
 		<itunes:duration>03:00:05</itunes:duration>
 		<itunes:author>Necrit SkinSpotlights Chibiin and NickyBoi</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
@@ -87,8 +90,8 @@ Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
 1:32:05 - Rapidfire: Necrits vacation, Minecraft subathon and Hytale
 1:37:16 - Wrapping it up</description>
 		<pubDate>Thu, 30 Dec 2021 20:00:00 +0000</pubDate>
-		<enclosure url="https://github.com/chibiin/podcast/blob/main/Audio/Ep.%202%20-%20Audio.mp3" type="audio/mpeg" length="94169128"/>
-		<itunes:image href="https://github.com/chibiin/podcast/blob/main/Thumbnails/wdp2spotify.png"/>
+		<enclosure url="https://raw.githubusercontent.com/chibiin/podcast/main/Audio/Ep.%202%20-%20Audio.mp3" type="audio/mpeg" length="94169128"/>
+		<itunes:image href="https://raw.githubusercontent.com/chibiin/podcast/main/Thumbnails/wdp2spotify.png"/>
 		<itunes:duration>01:38:05</itunes:duration>
 		<itunes:author>Necrit SkinSpotlights and Chibiin</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
@@ -122,8 +125,8 @@ Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
 2:00:49 - Kai&quot;Sa statue
 2:05:55 - Wrapping it up</description>
 		<pubDate>Wed, 13 Dec 2021 20:00:00 +0000</pubDate>
-		<enclosure url="https://github.com/chibiin/podcast/blob/main/Audio/Ep.%201%20-%20Audio.mp3" type="audio/mpeg" length="122194763"/>
-		<itunes:image href="https://github.com/chibiin/podcast/blob/main/Thumbnails/wdp1spotify.png"/>
+		<enclosure url="https://raw.githubusercontent.com/chibiin/podcast/main/Audio/Ep.%201%20-%20Audio.mp3" type="audio/mpeg" length="122194763"/>
+		<itunes:image href="https://raw.githubusercontent.com/chibiin/podcast/main/Thumbnails/wdp1spotify.png"/>
 		<itunes:duration>02:07:32</itunes:duration>
 		<itunes:author>Necrit SkinSpotlights and Chibiin</itunes:author>
 		<itunes:explicit>no</itunes:explicit>

@@ -17,7 +17,7 @@
     <description>Podcast by Necrit SkinSpotlights and Chibiin</description>
     <itunes:image href="https://raw.githubusercontent.com/chibiin/podcast/main/Thumbnails/rss.png"/>
         <image>
-          <url>https://github.com/chibiin/podcast/blob/main/Thumbnails/rss.png</url>
+          <url>https://raw.githubusercontent.com/chibiin/podcast/main/Thumbnails/rss.png</url>
           <title>Wood Division Podcast</title>
           <link>https://www.youtube.com/chibiin</link>
         </image>

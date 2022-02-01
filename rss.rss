@@ -5,7 +5,7 @@
 	<link>https://www.youtube.com/chibiin</link>
 	<description>Podcast by Necrit SkinSpotlights and Chibiin</description>
     <pubDate>Mon, 17 Jan 2022 14:25:19 +0000</pubDate>
-    <lastBuildDate>Mon, 17 Jan 2022 14:25:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Feb 2022 18:00:00 +0000</lastBuildDate>
     <ttl>60</ttl>
 	<itunes:subtitle>Podcast by Necrit SkinSpotlights and Chibiin</itunes:subtitle>
     <itunes:owner>
@@ -24,7 +24,34 @@
     <language>en</language>
 	
 	
-    <item>
+        <item>
+		<title>Ep. 4: Chemtech, Renata Glasc and Testing TFT MidSet</title>
+		<description>Also available on:
+Youtube: https://youtu.be/31oiJ7vhsa0
+Patreon: https://www.patreon.com/wooddivisionpodcast
+Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
+
+0:00 - Intro
+1:27 - 2FA is finally here!
+10:20 - Chemtech Dragon is gone! (pt.1)
+11:25 - Firelight Ekko and moving ressources
+23:39 - Chemtech Dragon is gone (pt.2)
+32:15 - TFT DoubleUp is here to stay!
+37:57 - CONGRATULATIONS
+44:14 - Renata Glasc Teaser
+55:20 - Arcane is not canon
+57:41 - TFT MidSet 6.5 Neon Night 
+1:33:21 - Wrapping it up</description>
+		<pubDate>Tue, 01 Feb 2022 18:00:00 +0000</pubDate>
+		<enclosure url="https://media.githubusercontent.com/media/chibiin/podcast/main/Audio/Ep.%204%20-%20Audio.mp3" type="audio/mpeg" length="90671365"/>
+		<itunes:image href="https://raw.githubusercontent.com/chibiin/podcast/main/Thumbnails/wdp4spotify.png"/>
+		<itunes:duration>01:34:26</itunes:duration>
+		<itunes:author>Necrit SkinSpotlights and Chibiin</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<guid isPermaLink="false">61951825</guid>
+    </item>	
+	
+	<item>
 		<title>Ep. 3: S12 Cinematic, TFT Scam, Player Focussed and Lots Of COPIUM w/ NickyBoi</title>
 		<description>Also available on:
 Youtube: https://youtu.be/31oiJ7vhsa0

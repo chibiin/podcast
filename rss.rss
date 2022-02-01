@@ -43,7 +43,7 @@ Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
 57:41 - TFT MidSet 6.5 Neon Night 
 1:33:21 - Wrapping it up</description>
 		<pubDate>Tue, 01 Feb 2022 18:00:00 +0000</pubDate>
-		<enclosure url="https://media.githubusercontent.com/media/chibiin/podcast/main/Audio/Ep.%204%20-%20Audio.mp3" type="audio/mpeg" length="90671365"/>
+		<enclosure url="https://raw.githubusercontent.com/chibiin/podcast/main/Audio//Ep.%204%20-%20Audio.mp3" type="audio/mpeg" length="90671365"/>
 		<itunes:image href="https://raw.githubusercontent.com/chibiin/podcast/main/Thumbnails/wdp4spotify.png"/>
 		<itunes:duration>01:34:26</itunes:duration>
 		<itunes:author>Necrit SkinSpotlights and Chibiin</itunes:author>

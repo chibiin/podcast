@@ -5,7 +5,7 @@
 	<link>https://www.youtube.com/chibiin</link>
 	<description>Podcast by Necrit SkinSpotlights and Chibiin</description>
     <pubDate>Mon, 17 Jan 2022 14:25:19 +0000</pubDate>
-    <lastBuildDate>Tue, 01 Feb 2022 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Feb 2022 18:00:00 +0000</lastBuildDate>
     <ttl>60</ttl>
 	<itunes:subtitle>Podcast by Necrit SkinSpotlights and Chibiin</itunes:subtitle>
     <itunes:owner>
@@ -23,8 +23,41 @@
         </image>
     <language>en</language>
 	
-	
-        <item>
+		<item>
+		<title>Ep. 5: Gothic Skarner, Thicc Thighs and Convoluted LORe w/ NickyBoi and TBSkyen</title>
+		<description>Also available on:
+Youtube: https://youtu.be/0pdU2G05khA
+Patreon: https://www.patreon.com/wooddivisionpodcast
+Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
+
+0:00 - Intro
+2:14 - Skarner won VGU Poll!
+20:07 - Gothic won Skin Poll!
+30:19 - Thicc Qiyana
+34:22 - Yuumi and Ratio
+39:44 - Earth, LoR and Canon
+1:02:37 - LoR Galio
+1:12:36 - LoR Udyr
+1:27:01 - LoR Gnar Teaser?
+1:31:57 - Creation of Yone was BASED
+1:35:11 - Yasuo and Ruined King
+1:43:34 - PBE ShockBlade
+1:48:25 - NickyBois Nicky-Verse FNF Mod
+1:52:49 - TBSkyens Hot Champs Tierlist
+1:55:20 - Necrits again with canon age
+2:03:06 - Pantheon problems
+2:07:00 - Void Event Predictions
+2:11:19 - Wrapping it up</description>
+		<pubDate>Mon, 14 Feb 2022 18:00:00 +0000</pubDate>
+		<enclosure url="https://raw.githubusercontent.com/chibiin/podcast/main/Audio/Ep.%205%20-%20Audio.mp3" type="audio/mpeg" length="96495975"/>
+		<itunes:image href="https://raw.githubusercontent.com/chibiin/podcast/main/Thumbnails/wdp5spotify.png"/>
+		<itunes:duration>02:14:00</itunes:duration>
+		<itunes:author>Necrit SkinSpotlights Chibiin NickyBoi and TBSkyen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<guid isPermaLink="false">62518186</guid>
+		</item>	
+        
+		<item>
 		<title>Ep. 4: Chemtech, Renata Glasc and Testing TFT MidSet</title>
 		<description>Also available on:
 Youtube: https://youtu.be/KyVgZXFdyws
@@ -43,7 +76,7 @@ Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
 57:41 - TFT MidSet 6.5 Neon Night 
 1:33:21 - Wrapping it up</description>
 		<pubDate>Tue, 01 Feb 2022 18:00:00 +0000</pubDate>
-		<enclosure url="https://raw.githubusercontent.com/chibiin/podcast/main/Audio//Ep.%204%20-%20Audio.mp3" type="audio/mpeg" length="90671365"/>
+		<enclosure url="https://raw.githubusercontent.com/chibiin/podcast/main/Audio/Ep.%204%20-%20Audio.mp3" type="audio/mpeg" length="90671365"/>
 		<itunes:image href="https://raw.githubusercontent.com/chibiin/podcast/main/Thumbnails/wdp4spotify.png"/>
 		<itunes:duration>01:34:26</itunes:duration>
 		<itunes:author>Necrit SkinSpotlights and Chibiin</itunes:author>

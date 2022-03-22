@@ -23,6 +23,45 @@
         </image>
     <language>en</language>
 	
+			<item>
+		<title> Ep. 7: GameModes, Tech Debt and PvE in League of Legends w/ Riot L4T3NCY </title>
+		<description>Also available on:
+Youtube: https://youtu.be/onzQgV8C0N0
+Patreon: https://www.patreon.com/wooddivisionpodcast
+Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
+
+0:00 - Intro
+1:52 - How Riot Forge actually opperates
+4:20 - PvE = passion project?
+7:26 - Why they never used Doombots again
+10:20 - is PvE the future of League
+15:35 - Dark Star
+19:45 - Summoners Rift skin change
+24:55 - Dark Star designer Trivia
+27:45 - How hard is it to bring them back
+37:19 - Ascension
+43:23 - BlackMarketBrawlers
+54:55 - StarGuardians
+1:00:34 - Hexakill
+1:05:58 - Nexus Siege
+1:10:31 - OneForAll
+1:13:55 - Poro King
+1:17:07 - Magma Chamber and Snowdown Showdown
+1:21:56 - NURF
+1:25:21 - LEAKS and Releasing Content
+1:33:15 - Doombots Trivia
+1:35:20 - Favorite Gamemode to Make and to Play
+1:38:51 - Missing the old days where he was coding
+1:41:07 - Wrapping it up</description>
+		<pubDate>Tue, 22 Mar 2022 18:00:00 +0000</pubDate>
+		<enclosure url="https://raw.githubusercontent.com/chibiin/podcast/main/Audio/Ep.%207%20-%20Audio.mp3" type="audio/mpeg" length="87383301"/>
+		<itunes:image href="https://raw.githubusercontent.com/chibiin/podcast/main/Thumbnails/wdp7spotify.png"/>
+		<itunes:duration>01:44:01</itunes:duration>
+		<itunes:author>Necrit SkinSpotlights Chibiin and Riot L4T3NCY</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<guid isPermaLink="false">64098347</guid>
+		</item>		
+	
 		<item>
 		<title>Ep. 6: Prestige Anima Squad Kassadin, LoR and MMO thoughts w/ Nakatine </title>
 		<description>Also available on:
@@ -47,7 +86,7 @@ Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
 		<enclosure url="https://raw.githubusercontent.com/chibiin/podcast/main/Audio/Ep.%206%20-%20Audio.mp3" type="audio/mpeg" length="90460503"/>
 		<itunes:image href="https://raw.githubusercontent.com/chibiin/podcast/main/Thumbnails/wdp6spotify.png"/>
 		<itunes:duration>02:05:37</itunes:duration>
-		<itunes:author>Necrit SkinSpotlights Chibiin NickyBoi and TBSkyen</itunes:author>
+		<itunes:author>Necrit SkinSpotlights Chibiin and Nakatine</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<guid isPermaLink="false">63457463</guid>
 		</item>	

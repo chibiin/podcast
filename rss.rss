@@ -22,8 +22,37 @@
           <link>https://www.youtube.com/chibiin</link>
         </image>
     <language>en</language>
-	
-			<item>
+
+		<item>
+		<title> Ep. 8: Mobile Song of Nunu MMO, Duo Recalls and Nostalgia </title>
+		<description>Also available on:
+Youtube: https://youtu.be/wvvRv24mrXw
+Patreon: https://www.patreon.com/wooddivisionpodcast
+Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
+
+0:00 - Intro
+2:58 - Mobile Gaming
+12:40 - Song of Nunu
+20:17 - MMO
+36:17 - VFX Updates
+41:38 - Fixing the Universe
+44:04 - Xayah and Rakan Duo Recall
+52:04 - New Level Borders
+56:26 - Ultimate Ultimate Spellbook RogueLike Experience
+01:09:54 - IS THIS A REWORK?
+01:11:55 - Skin Release Frequency
+1:33:24 - April Fools Stuff
+1:38:22 - Wrapping it up</description>
+		<pubDate>Mon, 11 Apr 2022 18:00:00 +0000</pubDate>
+		<enclosure url="https://raw.githubusercontent.com/chibiin/podcast/main/Audio/Ep.%208%20-%20Audio.mp3" type="audio/mpeg" length="98595975"/>
+		<itunes:image href="https://raw.githubusercontent.com/chibiin/podcast/main/Thumbnails/wdp8spotify.png"/>
+		<itunes:duration>01:42:41</itunes:duration>
+		<itunes:author>Necrit SkinSpotlights and Chibiin</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<guid isPermaLink="false">65005713</guid>
+		</item>	
+
+		<item>
 		<title> Ep. 7: GameModes, Tech Debt and PvE in League of Legends w/ Riot L4T3NCY </title>
 		<description>Also available on:
 Youtube: https://youtu.be/onzQgV8C0N0

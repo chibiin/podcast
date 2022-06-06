@@ -24,6 +24,37 @@
 	<itunes:category text="Games" />
     <language>en</language>
 
+<item>
+		<title> Ep. 10: Is TFT Greedy? Pirate Pride and RIP Path of Champions w/ NickyBoi </title>
+		<description>Also available on:
+Youtube: https://youtu.be/puwT_3Dbvww
+Patreon: https://www.patreon.com/wooddivisionpodcast
+Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
+
+0:00 - Intro 
+04:45 - Challenges
+08:16 - Bel'Veth
+18:26 - Seraphine's Hair Drama
+23:07 - Riot leaked SG Rell
+25:48 - LoR and Events
+53:12 - Ahri ASU Tease
+57:02 - The Street Fighter Incident
+01:02:41 - TF and Graves 
+1:12:35 - Path of Champions
+1:27:19 - Diablo Immortal
+01:31:57 - TFT is greedy?
+01:44:39 - Its Morbin Time
+01:50:26 - Double Up Ranked
+01:56:14 - Happy Pride Month
+02:04:21 - Wrapping it up</description>
+		<pubDate>Mon, 06 Jun 2022 18:00:00 +0000</pubDate>
+		<enclosure url="https://raw.githubusercontent.com/chibiin/podcast/main/Audio/Ep.%2010%20-%20Audio.mp3" type="audio/mpeg" length="91181512"/>
+		<itunes:image href="https://raw.githubusercontent.com/chibiin/podcast/main/Thumbnails/wdp10spotify.png"/>
+		<itunes:duration>02:06:37</itunes:duration>
+		<itunes:author>Necrit SkinSpotlights Chibiin and NickyBoi</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<guid isPermaLink="false">61282304</guid>
+	</item>	
 
 	<item>
 		<title> TFT special: Set 7 Dragonlands, Content Creations and Burnout w/ Dumbs </title>

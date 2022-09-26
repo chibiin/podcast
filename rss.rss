@@ -23,6 +23,39 @@
         </image>
 	<itunes:category text="Games" />
     <language>en</language>
+
+<item>
+		<title> Ep. 15: World Anthemn, Ships and Broken Promises w/ NickyBoi</title>
+		<description>Also available on:
+Youtube: https://youtu.be/p8RfErBDF3s
+Patreon: https://www.patreon.com/wooddivisionpodcast
+Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
+
+0:00 - Intro
+02:31 - EdgeRunners
+08:40 - YT Shorts
+16:16 - StarWalking
+31:11 - Worlds and WorldPass
+34:52 - Not Fufilling Promises
+51:42 - New Pass
+01:00:43 - Sett x Aphelios 
+01:03:30 - Syndra Midscope
+01:07:12 - Janna VFX Update
+01:11:03 - Ashen Mess
+01:18:33 - Bewitching
+01:28:01 - K'Sante
+01:34:28 - Wrapping it up</description>
+		<pubDate>Mon, 26 Sep 2022 18:00:00 +0000</pubDate>
+		<enclosure url="https://raw.githubusercontent.com/chibiin/podcast/main/Audio/Ep.%2015%20-%20Audio.mp3" type="audio/mpeg" length="92556436"/>
+		<itunes:image href="https://raw.githubusercontent.com/chibiin/podcast/main/Thumbnails/wdp15spotify.png"/>
+		<itunes:duration>01:36:24</itunes:duration>
+		<itunes:author>Necrit SkinSpotlights Chibiin annd NickyBoi</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<guid isPermaLink="false">72494098</guid>
+	</item>	
+
+
+
 <item>
 		<title> Ep. 14: Body Pillows, MMO, Old Content Creators w/ NickyBoi and SunnySplosion</title>
 		<description>Also available on:

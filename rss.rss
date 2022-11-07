@@ -24,6 +24,28 @@
 	<itunes:category text="Games" />
     <language>en</language>
 
+<item><title> Ep. 17: KSante, New Skins but Lack of Content w/ NickyBoi</title>
+		<description>Also available on:
+	Youtube: https://youtu.be/_aqvF84D3Ys
+	Patreon: https://www.patreon.com/wooddivisionpodcast
+	Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
+
+	0:00 - Intro
+	08:59 - Necrit's big video
+	21:32 - K'Sante
+	34:20 - No Content
+	57:24 - Space Groove
+	01:17:34 - Chibiin malding
+	01:28:02 - Wrapping it up</description>
+		<pubDate>Mon, 7 Nov 2022 18:00:00 +0000</pubDate>
+		<enclosure url="https://raw.githubusercontent.com/chibiin/podcast/main/Audio/Ep.%207%20-%20Audio.mp3" type="audio/mpeg" length="85710885"/>
+		<itunes:image href="https://raw.githubusercontent.com/chibiin/podcast/main/Thumbnails/wdp17spotify.png"/>
+		<itunes:duration>01:29:16</itunes:duration>
+		<itunes:author>Necrit SkinSpotlights Chibiin and NickyBoi</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<guid isPermaLink="false">74343089</guid>
+</item>	
+
 <item><title> Ep. 16: Bewitching, Seraphine and PPGoblin w/ NickyBoi and ThePeacePigeon</title>
 		<description>Also available on:
 	Youtube: https://youtu.be/AckjSReCswM

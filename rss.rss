@@ -24,6 +24,21 @@
 	<itunes:category text="Games" />
     <language>en</language>
 
+<item><title> Ep. 18: Happy 1 year anniversary!t w/ NickyBoi</title>
+		<description>Also available on:
+	Youtube: https://youtu.be/swYNIWiNxDI
+	Patreon: https://www.patreon.com/wooddivisionpodcast
+	Spotify: https://open.spotify.com/show/7xmky7LVOqgia25QnOTNML
+		</description>
+		<pubDate>Mon, 12 Dec 2022 18:00:00 +0000</pubDate>
+		<enclosure url="https://raw.githubusercontent.com/chibiin/podcast/main/Audio/Ep.%2018%20-%20Audio.mp3" type="audio/mpeg" length="97541428"/>
+		<itunes:image href="https://raw.githubusercontent.com/chibiin/podcast/main/Thumbnails/wdp18spotify.png"/>
+		<itunes:duration>02:15:29</itunes:duration>
+		<itunes:author>Necrit SkinSpotlights Chibiin and NickyBoi</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<guid isPermaLink="false">75830404</guid>
+</item>	
+
 <item><title> Ep. 17: KSante, New Skins but Lack of Content w/ NickyBoi</title>
 		<description>Also available on:
 	Youtube: https://youtu.be/_aqvF84D3Ys

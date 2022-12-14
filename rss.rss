@@ -21,7 +21,7 @@
           <title>Wood Division Podcast</title>
           <link>https://www.youtube.com/chibiin</link>
         </image>
-	<itunes:category text="Games" />
+	<itunes:category text="Leisure"> <itunes:category text="Games" /></itunes:category>
     <language>en</language>
 
 <item><title> Ep. 18: Happy 1 year anniversary!t w/ NickyBoi</title>
